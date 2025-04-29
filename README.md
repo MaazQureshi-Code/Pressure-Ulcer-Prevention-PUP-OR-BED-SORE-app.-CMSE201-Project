@@ -1,2 +1,10 @@
-# Pressure-Ulcer-Prevention-PUP-OR-BED-SORE-app.-CMSE201-Project
-This is a Pressure Ulcer Prevention (PUP) mobile application project developed for the CMSE201 Introduction to Software Engineering course at EMU. The app aims to help monitor and reduce the risk of bedsores (pressure ulcers) in patients through scheduled care reminders, patient tracking, and educational features.
+# Pressure Ulcer Prevention (PUP) app for CMSE201 – helps reduce bedsores with care schedules and patient tracking.
+
+# 👥 Project Personnel – CMSE201 PUP App
+
+| Name                 | Role                             |
+|----------------------|----------------------------------|
+| Maaz Qureshi         | Project Manager / System Analyst |
+| Saad Ahmed           | Network Designer / Tester        |
+| Hasan Orkan          | Database Developer               |
+| Mustafa Merhametsiz  | Network Designer / Tester        |
